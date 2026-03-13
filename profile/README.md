@@ -1,6 +1,6 @@
 <div align="center">
 <p>
-    <img width="100" src="https://raw.githubusercontent.com/julelang/resources/master/jule_icon.svg?sanitize=true">
+    <img width="100" src="https://github.com/QCDLab/.github/blob/main/logo/qcdlab.png?sanitize=true">
 </p>
 <h2>QCDLab</h2>
 
