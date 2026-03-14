@@ -6,7 +6,7 @@
 
 Advancing the field of high-energy particle physics with efficient and well-documented numerical tools
 
-[Website]() |
-[Projects]()
+[Website](https://qcdlab.github.io/webpage/) |
+[List of Projects](https://qcdlab.github.io/webpage/)
 
 </div>
